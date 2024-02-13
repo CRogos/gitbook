@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 237 134" width="237" height="134">
+  <!-- svg-source:excalidraw -->
+  <!-- payload-type:application/vnd.excalidraw+json --><!-- payload-version:2 --><!-- payload-start -->eyJ2ZXJzaW9uIjoiMSIsImVuY29kaW5nIjoiYnN0cmluZyIsImNvbXByZXNzZWQiOnRydWUsImVuY29kZWQiOiJ4nH1Sy27CMFx1MDAxMLzzXHUwMDE1UXqtIFx0XHUwMDAxXHUwMDAzx7ZcdTAwMWOoRCvEgUPVg4mXxIqxU9vhUcS/1zZcdTAwMTCnSK0sWdrZXc/OeE+dIFxi9bGCcFx1MDAxMoRwyDCjROJ9+GjxXHUwMDFkSEVcdTAwMDU3qcTFStQyc5WF1pWa9Hq4qro51Wshym4mtpc2YLBcdTAwMDWulSn8MHFcdTAwMTCc3N1cIpKQacxzXHUwMDA2rsGlPFc8vlx1MDAwN99cdTAwMDR3tHE0TqN0hNKkqaDqxdBpICa9wUyBz1gonM6Hm6xPouni6/V9rtFqRlx1MDAxN9KzbihjS31kbioljHifU1qKXHUwMDEyVpTo4uZAXHUwMDBi/6tLijovOCirPm5QUeGM6qPTXHUwMDEwNejFgkngkYOJXHUwMDEwXHUwMDFhNvGlY3TH/SyYkJb7IVx1MDAwNns8+1x1MDAxYWdlbkbgpKnRXHUwMDEyc1VhaX7E1+2vqmKEXHUwMDFhrFx1MDAwMJpcdTAwMTfaXHUwMDBlkHo+cM4mg+E4XHUwMDE5xH5cdTAwMGXLUc2I++JP76bEW5jZXHUwMDA2XjPWtoSTqyW3VfDL0L9cImcvwtZPW0vkXHUwMDE56orgy2fHKEKjdIBG46g1XHUwMDE3o7y8p2dcIiv9fjj0bG73aGhcdTAwMTZ4qc2TzWhGXHUwMDFhJUv6XHK/nlx0d1x1MDAxNPZP/5vbuWqwS1x1MDAwNU7ruXP+XHUwMDAxR4nhXHUwMDA1In0=<!-- payload-end -->
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <rect x="0" y="0" width="237" height="134" fill="transparent"/><g stroke-linecap="round" transform="translate(30 30) rotate(0 88.5 37)"><path d="M18.5 0 C59.47 1.37, 104.45 1.89, 158.5 0 M18.5 0 C48.84 -1.05, 78.47 -0.83, 158.5 0 M158.5 0 C169.52 -0.95, 175.74 7.96, 177 18.5 M158.5 0 C169.5 2.29, 177.45 7.03, 177 18.5 M177 18.5 C176.43 30.45, 176.55 41.45, 177 55.5 M177 18.5 C177.44 33.69, 176.19 47.67, 177 55.5 M177 55.5 C178.83 67.68, 169.93 72.54, 158.5 74 M177 55.5 C177.41 69.35, 170.13 72.11, 158.5 74 M158.5 74 C103.01 73.67, 51.82 73.81, 18.5 74 M158.5 74 C112.84 73.2, 68.32 74.36, 18.5 74 M18.5 74 C8.15 73.47, 0.93 66.91, 0 55.5 M18.5 74 C4.78 74.3, -1.07 66.54, 0 55.5 M0 55.5 C-0.18 44.02, -1.53 30.77, 0 18.5 M0 55.5 C-0.73 47.94, 0.92 39.01, 0 18.5 M0 18.5 C1.9 6.88, 5.34 -0.02, 18.5 0 M0 18.5 C0.39 6.22, 6.2 -1.07, 18.5 0" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></svg>
